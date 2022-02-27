@@ -131,12 +131,16 @@ operation of the device network.
 
 #### Your threats appear to be
 
-Primarily **Belligerent** in nature.
+Primarily **Belligerent** in nature. TODO: describe why I believe this is the case and the implications
+of this.
+
+Secondarily **Forensic** in nature. TODO: describe why I believe this and the implications.
 
 ##### Defending a Device Controller from a compromised Device Scanner
 
 WHY(TODO): Device Controller is under control of device operator
 
+- Physically conceal the **Device Scanner**: TODO
 - Physically conceal the **Device Controller**: TODO
 - Attach the device controller to an external power source, wall outlet, battery, or both: TODO
 - Make extracting the device from the concealed location unpleasant, difficult, or dangerous: TODO
@@ -145,17 +149,19 @@ WHY(TODO): Device Controller is under control of device operator
 ### Gathering Intelligence
 
 Your goal is to gather sensor information from a large number of phones, and interpret it, rapidly
-when that sensor data indicates the presence of data.
+when that sensor data indicates the presence of data. TODO: Rest of the fucking owl.
 
 ### Repelling Invaders
 
 A phone can neither fire nor stop bullets. But since we're expecting them to become targets, then it
 may make sense to defend them in ways which allow the defenders to keep their distance and thoroughly
-destroying the phone.
+destroying the phone. TODO: Link to some like booby-traps or something. Brainstorm ideas for making
+hidden **Device Scanners** dangerous to retrieve.
 
 ### Profit?
 
-When the interlopers are removed, the system you have built does not lose it's power.
+When the interlopers are removed, the system you have built does not lose it's power. TODO: recommend
+ethically taking down and storing them responsibly in the hands of the civilian network operators.
 
 - See also: [Passive Device Fingerprint Collection app FIND3, chosen for this purpose](https://github.com/schollz/find3-android-scanner)
 - See also: [Passive Frame Collection App PandaCollector](https://github.com/CoreTheGreat/PandaCollector)
