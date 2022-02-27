@@ -1,19 +1,18 @@
 # WARNING
 
-**WARNING(1)!** This repository is an "Anarchist Cookbook." It contains an aggregation of things
-that are probably bad ideas in any civil, acceptable circumstance where a reasonable social
-contract is in place. Moreover, none of the information is vetted. **ONLY** the article
-that appears imediately below was written by me. **USE IT AT YOUR OWN RISK.** ALL, **I MEAN ALL**
-of this advice is **OBJECTIVELY DANGEROUS.** It is presented solely for educational purposes
-in a world that continues to present us all with objective dangers. It is not be taken lightly.
-
+**WARNING(1)!** This repository contains things that are normally bad ideas.
+It contains an aggregation of things that are probably bad ideas in any civil, acceptable
+circumstance where a reasonable social contract is in place. Moreover, none of the
+information is vetted. **ONLY** the article that appears imediately below was written by
+me. **USE IT AT YOUR OWN RISK.** ALL, **I MEAN ALL** of this advice is
+**OBJECTIVELY DANGEROUS.** It is presented solely for educational purposes in a world that
+continues to present us all with objective dangers. It is not be taken lightly.
 
 **WARNING(2)!** This document is a work-in-progress. In particular, the tools required
 **simply don't exist yet**, I have to make them. We need modified versions of several
 Android and Desktop applications to operate this network safely, which is going to take
 a couple of days for me to do. Sorry. Wish I could do it faster. Read what's here maybe
 and help me finish if you can. I understand if you can't.
-
 
 **Consider yourself warned.**
 
