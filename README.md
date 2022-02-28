@@ -73,7 +73,7 @@ In order to accomplish this, you'll need to collect some tools:
 as you can find. We will use these to build our sensor network, and at a certain point will leave the
 operator's hands to be planted in a location where it will fulfill it's goal of running
 
-- **[According to cursory research, these phones are popular in the Ukraine](https://www.appbrain.com/stats/top-android-phones-tablets-by-country?country=UA):**
+- **[According to cursory research, these phones are popular in Ukraine](https://www.appbrain.com/stats/top-android-phones-tablets-by-country?country=UA):**
 I copied this list to UKRAINE_PHONES.md in this repository.
 - You should also get as many USB cables as possible, to use for charging the phones and attaching
 them to permanent power supplies. Changing batteries is a risky operation best avoided, lives will be
